@@ -19,9 +19,9 @@
 ##Recipes
 You'll find these in the <code>/recipes</code> folder.
 <ul>
-<li>Back up a file</li>
+<li><a href="https://github.com/OWH-projects/batch-training/blob/master/recipes/backup.bat">Back up a file</a></li>
 <li>Grayscale every image in a folder</li>
-<li>Append text to a .txt file</li>
+<li><a href="https://github.com/OWH-projects/batch-training/blob/master/recipes/append.bat">Append text to a .txt file</a></li>
 <li>Start a new GitHub repo</li>
 <li>Fetch a spreadsheet from the Internet, parse into a CSV</li>
 </ul>
