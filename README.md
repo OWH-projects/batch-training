@@ -20,9 +20,9 @@
 You'll find these in the <code>/recipes</code> folder.
 <ul>
 <li><a href="https://github.com/OWH-projects/batch-training/blob/master/recipes/backup.bat">Back up a file</a></li>
-<li>Grayscale every image in a folder</li>
+<li><a href="https://github.com/OWH-projects/batch-training/blob/master/recipes/grayscale.bat">Grayscale every image in a folder</a></li>
 <li><a href="https://github.com/OWH-projects/batch-training/blob/master/recipes/append.bat">Append text to a .txt file</a></li>
-<li>Start a new GitHub repo</li>
+<li><a href="https://github.com/OWH-projects/batch-training/blob/master/recipes/git.bat">Start a new GitHub repo</a></li>
 <li><a href="https://github.com/OWH-projects/batch-training/blob/master/recipes/parse.bat">Fetch a spreadsheet from the Internet, parse into a CSV</a></li>
 </ul>
 
