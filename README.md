@@ -8,8 +8,10 @@
 <ul>
 <li><code>cd</code>&emsp;<i>Change folder</i></li>
 <li><code>md</code>&emsp;<i>Create folder</i></li>
+<li><code>dir</code>&emsp;<i>What's in this folder?</i></li>
+<li><code>echo</code>&emsp;<i>Print something to the console</i></li>
 <li><code>del</code>&emsp;<i>Delete a file or folder</i></li>
-<li><code>xcopy</code>&emsp;<i>Copy a file or folder</i></li>
+<li><code>copy</code>&emsp;<i>Copy a file</i></li>
 </ul>
 
 <a href="http://ss64.com/nt/">A more comprehensive cheat sheet</a>.
